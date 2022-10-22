@@ -1,0 +1,12 @@
+.container{
+    width: 500px;
+    height: 200px;
+    border: 1px solid;
+    margin: 40px auto
+}
+#line-number{
+    width: 150px
+}
+h1{
+    text-align: center;
+}
